@@ -1,0 +1,29 @@
+.App {
+  text-align: left;
+  margin-top: 0rem;
+
+}
+.container{
+  display: flex;
+  gap:1rem;
+  width: 90vw;
+  margin:5rem auto;
+}
+
+img{
+  width:30vw;
+  height:30vh;
+}
+h1{
+  margin-left: 5rem;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
