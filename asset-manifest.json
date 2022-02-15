@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/feb-8-assignment.git/static/css/main.eea32681.css",
+    "main.js": "/feb-8-assignment.git/static/js/main.ade3f172.js",
+    "static/js/787.3aa39d5f.chunk.js": "/feb-8-assignment.git/static/js/787.3aa39d5f.chunk.js",
+    "static/media/fb2.jpg": "/feb-8-assignment.git/static/media/fb2.6f5bbc3ae6e20cd25d03.jpg",
+    "static/media/fb1.jpg": "/feb-8-assignment.git/static/media/fb1.ce40a7fddaf067cb2b35.jpg",
+    "static/media/cricket.jpg": "/feb-8-assignment.git/static/media/cricket.22ecaa9f5add836c4c5c.jpg",
+    "index.html": "/feb-8-assignment.git/index.html",
+    "main.eea32681.css.map": "/feb-8-assignment.git/static/css/main.eea32681.css.map",
+    "main.ade3f172.js.map": "/feb-8-assignment.git/static/js/main.ade3f172.js.map",
+    "787.3aa39d5f.chunk.js.map": "/feb-8-assignment.git/static/js/787.3aa39d5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eea32681.css",
+    "static/js/main.ade3f172.js"
+  ]
+}
